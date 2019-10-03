@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Avishaisade/Portfolio#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
-    "eslint-plugin-react": "^7.12.4"
+    "eslint-plugin-react": "^7.15.1"
   }
 }
