@@ -12,7 +12,12 @@ body {
 	z-index: 3;
 	background-color: rgba(0, 0, 0, 0.4);
 }
-
+.contactSection ul {
+	list-style: none;
+}
+.contact-item .nav-link{
+	color:white;
+}
 .slides-navigation {
 	z-index: 6;
 }
